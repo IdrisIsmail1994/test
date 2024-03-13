@@ -24,14 +24,4 @@ public class LoopBechmark
             var item = items[i];
         }
     }
-
-    /* public void While()
-     {
-         var i = 0;
-         while (i < items.Count)
-         {
-             var item = items[1];
-             i++;
-         }
-     }*/
 }
